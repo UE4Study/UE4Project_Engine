@@ -1,0 +1,10 @@
+클라이언트 프로젝트를 각 PC 환경에 맞게 다시 생성해야 합니다. 
+
+
+상위 폴더의 RunEditor.bat를 실행해서 에디터를 열고 
+Client.uproject를 로딩한 후
+Refresh / Generate Visual Studio Project FIles 를 하면 솔루션과 프로젝트 파일이 각자 PC에 맞게 생성됩니다. 
+
+소스를 다시 받아도 한번 실행해야 합니다. 
+
+

@@ -1,0 +1,4 @@
+vcruntime140.dll 오류시 vc_redist.x64.exe 우선 실행
+d3dcompiler_43.dll 오류시 또는 d3d관련 오류시 Directx폴더의 Directx우선 설치
+RunEditor.bat 파일 실행. 
+
