@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ED3591AA-4F1B-DC6F-C0D6-51A0CD10F6C5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "client",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
