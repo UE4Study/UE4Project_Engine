@@ -1,0 +1,9 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "ad337f36-ffac-46c4-9f29-f31ac0afc6c4",
+	"Modules" : 
+	{
+		"ProceduralMeshComponent" : "UE4Editor-ProceduralMeshComponent.dll",
+		"ProceduralMeshComponentEditor" : "UE4Editor-ProceduralMeshComponentEditor.dll"
+	}
+}

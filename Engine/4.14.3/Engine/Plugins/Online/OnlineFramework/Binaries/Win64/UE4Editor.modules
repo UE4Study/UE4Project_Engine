@@ -1,0 +1,11 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "ad337f36-ffac-46c4-9f29-f31ac0afc6c4",
+	"Modules" : 
+	{
+		"Qos" : "UE4Editor-Qos.dll",
+		"Party" : "UE4Editor-Party.dll",
+		"Lobby" : "UE4Editor-Lobby.dll",
+		"Hotfix" : "UE4Editor-Hotfix.dll"
+	}
+}

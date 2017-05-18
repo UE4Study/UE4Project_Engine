@@ -1,0 +1,8 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "3486f265-0b1f-4816-98c1-01004c362bea",
+	"Modules" : 
+	{
+		"UdpMessaging" : "UnrealLightmass-UdpMessaging.dll"
+	}
+}
