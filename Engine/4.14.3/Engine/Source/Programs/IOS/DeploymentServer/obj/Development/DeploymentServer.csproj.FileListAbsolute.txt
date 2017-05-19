@@ -1,0 +1,6 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentServer.exe.config
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentServer.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentServer.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentServer\obj\Development\DeploymentServer.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentServer\obj\Development\DeploymentServer.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentServer\obj\Development\DeploymentServer.pdb

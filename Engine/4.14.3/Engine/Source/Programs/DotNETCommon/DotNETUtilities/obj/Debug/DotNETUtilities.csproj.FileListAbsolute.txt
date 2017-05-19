@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\DotNETUtilities.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\DotNETUtilities.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Debug\DotNETUtilities.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Debug\DotNETUtilities.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Debug\DotNETUtilities.pdb

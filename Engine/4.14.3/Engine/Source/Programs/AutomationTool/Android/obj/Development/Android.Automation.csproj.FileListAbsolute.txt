@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Android\Android.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Android\Android.Automation.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.pdb

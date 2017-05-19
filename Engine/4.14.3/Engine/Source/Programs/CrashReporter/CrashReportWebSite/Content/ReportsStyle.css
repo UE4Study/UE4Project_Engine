@@ -1,0 +1,29 @@
+﻿#ReportsTable, #ReportsTable tr, #ReportsTable th, #ReportsTable td
+{
+	border: solid;
+	border-width: 1px;
+
+	color: white;
+	background-color: black;
+
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 12px;
+
+	padding: 2px;
+	margin: 2px;
+}
+
+table, table tr, table th, table td
+{
+	border: solid;
+	border-width: 1px;
+
+	color: white;
+	background-color: black;
+
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 12px;
+
+	padding: 2px;
+	margin: 2px;
+}

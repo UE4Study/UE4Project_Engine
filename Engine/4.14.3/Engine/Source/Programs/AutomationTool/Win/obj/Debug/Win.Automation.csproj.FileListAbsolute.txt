@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Win.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Win.Automation.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Win\obj\Debug\Win.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Win\obj\Debug\Win.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Win\obj\Debug\Win.Automation.pdb

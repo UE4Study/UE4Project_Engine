@@ -1,0 +1,6 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationTool.exe.config
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationTool.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationTool.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\obj\Debug\AutomationTool.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\obj\Debug\AutomationTool.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\obj\Debug\AutomationTool.pdb

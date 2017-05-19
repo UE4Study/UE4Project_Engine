@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Localization.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Localization.Automation.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Localization\obj\Debug\Localization.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Localization\obj\Debug\Localization.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Localization\obj\Debug\Localization.Automation.pdb

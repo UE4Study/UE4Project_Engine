@@ -1,0 +1,14 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.ConfigureMobileGame.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.GenerateSigningRequestDialog.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.GraphicalResignTool.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.PasswordDialog.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.SlowProgressDialog.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.ToolsHub.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.csproj.GenerateResource.Cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\iPhonePackager.Properties.Resources.resources
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\IPhonePackager.exe.config
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\IPhonePackager.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\IPhonePackager.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\IPhonePackager.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Development\IPhonePackager.pdb

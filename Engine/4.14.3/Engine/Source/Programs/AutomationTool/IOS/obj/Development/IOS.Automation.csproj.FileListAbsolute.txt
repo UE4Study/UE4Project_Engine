@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\IOS\IOS.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\IOS\IOS.Automation.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\IOS\obj\Development\IOS.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\IOS\obj\Development\IOS.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\IOS\obj\Development\IOS.Automation.pdb

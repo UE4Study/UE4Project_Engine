@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.exe.config
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Development\AutomationToolLauncher.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Development\AutomationToolLauncher.pdb

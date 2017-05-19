@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.exe.config
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Development\GitDependencies.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Development\GitDependencies.pdb

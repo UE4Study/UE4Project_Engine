@@ -1,0 +1,6 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\UnrealBuildTool.exe.config
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\UnrealBuildTool.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\UnrealBuildTool.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\UnrealBuildTool\obj\Debug\UnrealBuildTool.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\UnrealBuildTool\obj\Debug\UnrealBuildTool.exe
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\UnrealBuildTool\obj\Debug\UnrealBuildTool.pdb

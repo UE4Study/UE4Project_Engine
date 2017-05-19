@@ -1,0 +1,5 @@
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.pdb
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Debug\OneSkyLocalization.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Debug\OneSkyLocalization.Automation.dll
+C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Debug\OneSkyLocalization.Automation.pdb
