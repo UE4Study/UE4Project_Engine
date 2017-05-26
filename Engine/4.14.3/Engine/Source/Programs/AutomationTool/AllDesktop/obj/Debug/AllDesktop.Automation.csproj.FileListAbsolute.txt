@@ -3,3 +3,8 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\AllDesktop
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AllDesktop\obj\Debug\AllDesktop.Automation.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AllDesktop\obj\Debug\AllDesktop.Automation.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AllDesktop\obj\Debug\AllDesktop.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\AllDesktop\AllDesktop.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\AllDesktop\AllDesktop.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AllDesktop\obj\Debug\AllDesktop.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AllDesktop\obj\Debug\AllDesktop.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AllDesktop\obj\Debug\AllDesktop.Automation.pdb

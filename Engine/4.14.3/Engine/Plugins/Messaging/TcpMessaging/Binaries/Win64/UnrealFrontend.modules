@@ -1,6 +1,6 @@
 {
 	"Changelist" : 0,
-	"BuildId" : "b0b6f100-bc88-45a1-9c22-c7aec6bb98bf",
+	"BuildId" : "57bf9d6f-5ae7-488d-abcc-c50b3e810ad6",
 	"Modules" : 
 	{
 		"TcpMessaging" : "UnrealFrontend-TcpMessaging.dll"

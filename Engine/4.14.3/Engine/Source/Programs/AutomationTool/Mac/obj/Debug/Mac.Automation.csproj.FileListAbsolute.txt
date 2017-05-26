@@ -2,3 +2,8 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Au
 C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.pdb
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Mac\obj\Debug\Mac.Automation.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Mac\obj\Debug\Mac.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Mac\obj\Debug\Mac.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Mac\obj\Debug\Mac.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\Mac\obj\Debug\Mac.Automation.csprojResolveAssemblyReference.cache

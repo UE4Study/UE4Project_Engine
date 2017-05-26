@@ -3,3 +3,8 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationUtils.Automation.p
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AutomationUtils\obj\Development\AutomationUtils.Automation.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AutomationUtils\obj\Development\AutomationUtils.Automation.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AutomationUtils\obj\Development\AutomationUtils.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationUtils.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationUtils.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AutomationUtils\obj\Development\AutomationUtils.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AutomationUtils\obj\Development\AutomationUtils.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\AutomationUtils\obj\Development\AutomationUtils.Automation.pdb

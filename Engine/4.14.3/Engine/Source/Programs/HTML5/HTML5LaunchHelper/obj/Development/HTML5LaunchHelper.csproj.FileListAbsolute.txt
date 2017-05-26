@@ -3,3 +3,9 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\HTML5LaunchHelper.exe
 C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\HTML5LaunchHelper.pdb
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\HTML5\HTML5LaunchHelper\obj\Development\HTML5LaunchHelper.exe
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\HTML5\HTML5LaunchHelper\obj\Development\HTML5LaunchHelper.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\HTML5LaunchHelper.exe.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\HTML5LaunchHelper.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\HTML5LaunchHelper.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\HTML5\HTML5LaunchHelper\obj\Development\HTML5LaunchHelper.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\HTML5\HTML5LaunchHelper\obj\Development\HTML5LaunchHelper.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\HTML5\HTML5LaunchHelper\obj\Development\HTML5LaunchHelper.pdb

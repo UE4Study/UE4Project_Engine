@@ -6,3 +6,17 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.SlowProgressDialog.resources
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.ToolsHub.resources
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.csproj.GenerateResource.Cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\IPhonePackager.exe.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\IPhonePackager.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\IPhonePackager.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.ConfigureMobileGame.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.GenerateSigningRequestDialog.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.GraphicalResignTool.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.PasswordDialog.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.Properties.Resources.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.SlowProgressDialog.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.ToolsHub.resources
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\iPhonePackager.csproj.GenerateResource.Cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\IPhonePackager.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\iPhonePackager\obj\Debug\IPhonePackager.pdb

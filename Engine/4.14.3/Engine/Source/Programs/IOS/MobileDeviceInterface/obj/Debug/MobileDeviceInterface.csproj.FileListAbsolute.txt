@@ -4,3 +4,9 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.pd
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Debug\MobileDeviceInterface.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Debug\MobileDeviceInterface.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Debug\MobileDeviceInterface.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.dll.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Debug\MobileDeviceInterface.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Debug\MobileDeviceInterface.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Debug\MobileDeviceInterface.pdb

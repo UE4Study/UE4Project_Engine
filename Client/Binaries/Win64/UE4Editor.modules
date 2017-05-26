@@ -1,0 +1,8 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"client" : "UE4Editor-client.dll"
+	}
+}

@@ -3,3 +3,8 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\TVOS\obj\Debug\TVOS.Automation.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\TVOS\obj\Debug\TVOS.Automation.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\TVOS\obj\Debug\TVOS.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\TVOS\obj\Debug\TVOS.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\TVOS\obj\Debug\TVOS.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\TVOS\obj\Debug\TVOS.Automation.pdb

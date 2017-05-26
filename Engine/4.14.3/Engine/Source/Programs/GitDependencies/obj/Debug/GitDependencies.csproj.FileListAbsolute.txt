@@ -4,3 +4,9 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.pdb
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Debug\GitDependencies.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Debug\GitDependencies.exe
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Debug\GitDependencies.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.exe.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\GitDependencies.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Debug\GitDependencies.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Debug\GitDependencies.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\GitDependencies\obj\Debug\GitDependencies.pdb

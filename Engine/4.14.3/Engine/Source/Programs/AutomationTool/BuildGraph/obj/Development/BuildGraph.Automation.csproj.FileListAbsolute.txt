@@ -4,3 +4,9 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\BuildGraph
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.xml
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.pdb

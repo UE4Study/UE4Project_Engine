@@ -4,3 +4,9 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.pdb
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Debug\AutomationToolLauncher.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Debug\AutomationToolLauncher.exe
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Debug\AutomationToolLauncher.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.exe.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\AutomationToolLauncher.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Debug\AutomationToolLauncher.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Debug\AutomationToolLauncher.exe
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\AutomationToolLauncher\obj\Debug\AutomationToolLauncher.pdb

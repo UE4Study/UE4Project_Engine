@@ -4,3 +4,9 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.pdb
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Debug\DeploymentInterface.csprojResolveAssemblyReference.cache
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Debug\DeploymentInterface.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Debug\DeploymentInterface.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.dll.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Debug\DeploymentInterface.csprojResolveAssemblyReference.cache
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Debug\DeploymentInterface.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Debug\DeploymentInterface.pdb

@@ -3,3 +3,8 @@ C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.pdb
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Development\DeploymentInterface.dll
 C:\UnrealStudy\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Development\DeploymentInterface.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.dll.config
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Binaries\DotNET\IOS\DeploymentInterface.pdb
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Development\DeploymentInterface.dll
+C:\UnrealStudy2\Engine\4.14.3\Engine\Source\Programs\IOS\DeploymentInterface\obj\Development\DeploymentInterface.pdb
